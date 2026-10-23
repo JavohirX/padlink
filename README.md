@@ -6,6 +6,10 @@ The PC app shows a QR code. The phone scans it, you pick Player 1 or Player 2, a
 
 NES, Famicom, and Sega Genesis are trademarks of their owners. Padlink is not affiliated with them, with FCEUX, or with BlastEm.
 
+## Download
+
+[Version 1.0.9](https://github.com/JavohirX/padlink/releases/tag/v1.0.9) has the Windows receivers and the phone APKs. The receivers do not need a separate .NET install.
+
 ## Pieces
 
 | | NES | Genesis |

@@ -9,6 +9,7 @@
     <AssemblyName>PadlinkNes</AssemblyName>
     <Product>Padlink</Product>
     <AssemblyTitle>Padlink NES</AssemblyTitle>
+    <Version>1.0.9</Version>
     <RootNamespace>NesReceiver</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
 

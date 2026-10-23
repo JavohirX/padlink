@@ -9,6 +9,7 @@
     <AssemblyName>PadlinkGenesis</AssemblyName>
     <Product>Padlink</Product>
     <AssemblyTitle>Padlink Genesis</AssemblyTitle>
+    <Version>1.0.9</Version>
     <RootNamespace>BlastemReceiver</RootNamespace>
     <ApplicationManifest>app.manifest</ApplicationManifest>
 
