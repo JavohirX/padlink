@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="background_dark">#1A1A2E</color>
+    <color name="controller_background">#0F0F23</color>
+    <color name="banner_background">#CC882200</color>
+
+    <!-- Text -->
+    <color name="text_primary">#EEEEEE</color>
+    <color name="text_secondary">#888888</color>
+
+    <!-- Buttons -->
+    <color name="button_primary">#E63946</color>
+    <color name="button_secondary">#457B9D</color>
+    <color name="button_player1">#E63946</color>
+    <color name="button_player2">#2A9D8F</color>
+    <color name="button_settings">#333344</color>
+
+    <!-- Status text -->
+    <color name="status_info">#A8DADC</color>
+    <color name="status_error">#FF6B6B</color>
+
+    <!-- Controller buttons -->
+    <color name="btn_normal">#6B3A3A</color>
+    <color name="btn_pressed">#FF6B6B</color>
+    <color name="dpad_base">#555555</color>
+    <color name="dpad_highlight">#DDDDDD</color>
+
+    <!-- Material theme -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

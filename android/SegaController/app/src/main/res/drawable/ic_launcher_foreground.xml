@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sega Genesis controller outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,42 Q18,30 30,30 L78,30 Q90,30 90,42 L90,70 Q90,82 78,82 L30,82 Q18,82 18,70 Z" />
+    <!-- D-pad cross -->
+    <path
+        android:fillColor="#0066CC"
+        android:pathData="M30,52 L36,52 L36,46 L42,46 L42,52 L48,52 L48,58 L42,58 L42,64 L36,64 L36,58 L30,58 Z" />
+    <!-- A button -->
+    <path
+        android:fillColor="#0066CC"
+        android:pathData="M 76,58 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" />
+    <!-- B button -->
+    <path
+        android:fillColor="#0066CC"
+        android:pathData="M 66,56 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" />
+    <!-- C button -->
+    <path
+        android:fillColor="#0066CC"
+        android:pathData="M 56,58 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" />
+</vector>

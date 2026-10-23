@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- This app only ever connects to a local LAN address (ws://192.168.x.x:8788).
+         Cleartext is intentional — no sensitive data crosses the wire. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

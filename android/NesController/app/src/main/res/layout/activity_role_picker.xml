@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="@color/background_dark">
+
+    <TextView
+        android:id="@+id/tvPickTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_player"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/tvPickSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_player_subtitle"
+        android:textSize="14sp"
+        android:textColor="@color/text_secondary"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvConnectionUrl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/text_secondary"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="40dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btnPlayer1"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:text="@string/player_1"
+        android:textSize="18sp"
+        android:backgroundTint="@color/button_player1"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/btnPlayer2"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:text="@string/player_2"
+        android:textSize="18sp"
+        android:backgroundTint="@color/button_player2"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="14sp"
+        android:textColor="@color/status_info"
+        android:gravity="center"
+        android:visibility="gone"
+        android:padding="8dp" />
+
+</LinearLayout>

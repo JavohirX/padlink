@@ -1,0 +1,28 @@
+# Gradle / Android
+**/.gradle/
+**/build/
+**/local.properties
+*.apk
+*.aab
+*.ap_
+**/app/release/
+*.dex
+.cxx/
+captures/
+*.hprof
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# IDE
+.idea/
+.vs/
+*.iml
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

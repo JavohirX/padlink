@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple gamepad icon: a rectangle with two circles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,40 Q20,28 32,28 L76,28 Q88,28 88,40 L88,68 Q88,80 76,80 L32,80 Q20,80 20,68 Z" />
+    <!-- D-pad cross -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M34,50 L40,50 L40,44 L46,44 L46,50 L52,50 L52,56 L46,56 L46,62 L40,62 L40,56 L34,56 Z" />
+    <!-- A button -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M 76, 54 m -6, 0 a 6,6 0 1,0 12,0 a 6,6 0 1,0 -12,0" />
+    <!-- B button -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M 65, 60 m -6, 0 a 6,6 0 1,0 12,0 a 6,6 0 1,0 -12,0" />
+</vector>
